@@ -1,0 +1,9 @@
+calculator.py
+pyvenv.cfg
+test.py
+share/
+venv/
+Scripts/
+include/
+__pycache__/
+Lib/

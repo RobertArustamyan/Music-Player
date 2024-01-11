@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/pause_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icons/play_arrow_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icons/skip_next_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icons/skip_previous_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icons/tune_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icons/volume_mute_FILL0_wght400_GRAD0_opsz24.svg</file>
+  </qresource>
+</RCC>
